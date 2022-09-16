@@ -1,0 +1,14 @@
+# Target labels
+ fp16
+# Source files and their labels
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/CMakeFiles/fp16
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/CMakeFiles/fp16.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/CMakeFiles/fp16-complete.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-install.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-mkdir.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-download.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-update.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-patch.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-configure.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-build.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-test.rule

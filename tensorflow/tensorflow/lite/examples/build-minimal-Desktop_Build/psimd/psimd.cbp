@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="psimd"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\build-minimal-Desktop_Build\;CMake Files\..\build-minimal-Desktop_Build\eigen\;CMake Files\..\build-minimal-Desktop_Build\eigen\cmake\;CMake Files\..\build-minimal-Desktop_Build\eigen\scripts\;CMake Files\..\build-minimal-Desktop_Build\eigen\doc\;CMake Files\..\build-minimal-Desktop_Build\eigen\blas\;CMake Files\..\build-minimal-Desktop_Build\eigen\lapack\;CMake Files\..\build-minimal-Desktop_Build\eigen\unsupported\;CMake Files\..\build-minimal-Desktop_Build\eigen\unsupported\Eigen\;CMake Files\..\build-minimal-Desktop_Build\eigen\unsupported\Eigen\CXX11\;CMake Files\..\build-minimal-Desktop_Build\eigen\unsupported\doc\;CMake Files\..\build-minimal-Desktop_Build\eigen\demos\;CMake Files\..\build-minimal-Desktop_Build\FP16-source\;CMake Files\..\build-minimal-Desktop_Build\psimd-source\;CMake Files\..\build-minimal-Desktop_Build\FXdiv-source\;CMake Files\..\build-minimal-Desktop_Build\flatbuffers\;CMake Files\..\build-minimal-Desktop_Build\flatbuffers\CMake\;CMake Files\..\build-minimal-Desktop_Build\neon2sse\;CMake Files\..\build-minimal-Desktop_Build\neon2sse\cmake\;CMake Files\..\build-minimal-Desktop_Build\xnnpack\;CMake Files\..\build-minimal-Desktop_Build\pthreadpool-source\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\CMake\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\copts\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\base\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\algorithm\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\cleanup\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\container\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\debugging\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\flags\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\functional\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\hash\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\memory\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\meta\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\numeric\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\profiling\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\random\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\status\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\strings\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\synchronization\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\time\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\types\;CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\utility\;CMake Files\..\build-minimal-Desktop_Build\clog\;CMake Files\..\build-minimal-Desktop_Build\clog\deps\;CMake Files\..\build-minimal-Desktop_Build\clog\deps\clog\;CMake Files\..\build-minimal-Desktop_Build\cpuinfo\;CMake Files\..\build-minimal-Desktop_Build\flatbuffers-flatc\;CMake Files\..\build-minimal-Desktop_Build\flatbuffers-flatc\tmp\;CMake Files\..\build-minimal-Desktop_Build\ruy\;CMake Files\..\build-minimal-Desktop_Build\ruy\cmake\;CMake Files\..\build-minimal-Desktop_Build\ruy\ruy\;CMake Files\..\build-minimal-Desktop_Build\ruy\ruy\profiler\;CMake Files\..\..\;CMake Files\..\..\tools\;CMake Files\..\..\tools\cmake\;CMake Files\..\..\tools\cmake\modules\;CMake Files\..\..\tools\cmake\modules\farmhash\;CMake Files\..\..\tools\cmake\modules\fft2d\;CMake Files\..\..\tools\cmake\modules\gemmlowp\;CMake Files\..\..\tools\benchmark\;CMake Files\..\label_image\;CMake Files\Qt\;CMake Files\Qt\Qt5.14\;CMake Files\Qt\Qt5.14\Tools\;CMake Files\Qt\Qt5.14\Tools\QtCreator\;CMake Files\Qt\Qt5.14\Tools\QtCreator\share\;CMake Files\Qt\Qt5.14\Tools\QtCreator\share\qtcreator\;CMake Files\Qt\Qt5.14\Tools\QtCreator\share\qtcreator\package-manager\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/psimd"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe -v all"/>
+					<CompileFile command="C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe -v clean"/>
+					<DistClean command="C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/cmake/Eigen3Config.cmake.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/cmake/FindCLANG_FORMAT.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/cmake/FindStandardMathLibrary.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/scripts/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\scripts\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/scripts/buildtests.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\scripts\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/scripts/cdashtesting.cmake.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\scripts\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/scripts/check.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\scripts\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/scripts/debug.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\scripts\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/scripts/release.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\scripts\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/doc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\doc\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/blas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\blas\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/lapack/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\lapack\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/unsupported/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\unsupported\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/unsupported/Eigen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\unsupported\Eigen\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/unsupported/Eigen/CXX11/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\unsupported\Eigen\CXX11\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/unsupported/doc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\unsupported\doc\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/eigen/demos/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\eigen\demos\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/FP16-source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\FP16-source\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/psimd-source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\psimd-source\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/FXdiv-source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\FXdiv-source\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/flatbuffers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\flatbuffers\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/flatbuffers/CMake/BuildFlatBuffers.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\flatbuffers\CMake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/flatbuffers/CMake/FlatbuffersConfigVersion.cmake.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\flatbuffers\CMake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/flatbuffers/CMake/Version.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\flatbuffers\CMake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/neon2sse/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\neon2sse\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/neon2sse/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\neon2sse\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/xnnpack/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\xnnpack\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/pthreadpool-source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\pthreadpool-source\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/CMake/AbseilDll.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\CMake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/CMake/AbseilHelpers.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\CMake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/copts/AbseilConfigureCopts.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\copts\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/copts/GENERATED_AbseilCopts.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\copts\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/base/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\base\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/algorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\algorithm\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/cleanup/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\cleanup\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/container/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\container\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/debugging/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\debugging\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/flags/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\flags\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/functional/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\functional\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/hash/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\hash\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/memory/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\memory\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/meta/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\meta\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/numeric/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\numeric\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/profiling/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\profiling\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/random/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\random\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/status/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\status\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/strings/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\strings\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/synchronization/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\synchronization\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/time/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\time\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/types/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\types\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/abseil-cpp/absl/utility/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\abseil-cpp\absl\utility\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/clog/deps/clog/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\clog\deps\clog\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/cpuinfo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\cpuinfo\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/flatbuffers-flatc/tmp/flatbuffers-flatc-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\flatbuffers-flatc\tmp\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/ruy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\ruy\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/ruy/cmake/ruy_add_all_subdirs.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\ruy\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/ruy/cmake/ruy_cc_binary.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\ruy\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/ruy/cmake/ruy_cc_library.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\ruy\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/ruy/cmake/ruy_cc_test.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\ruy\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/ruy/cmake/ruy_include_directories.cmake">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\ruy\cmake\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/ruy/ruy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\ruy\ruy\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../build-minimal-Desktop_Build/ruy/ruy/profiler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\build-minimal-Desktop_Build\ruy\ruy\profiler\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findabsl.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findclog.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findcpuinfo.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findegl_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findeigen.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findfarmhash.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findfft2d.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findflatbuffers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findfp16_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findgemmlowp.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findneon2sse.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findopencl_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findopengl_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findruy.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findvulkan_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/Findxnnpack.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/OverridableFetchContent.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/abseil-cpp.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/clog.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/cpuinfo.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/egl_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/eigen.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/farmhash.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/fft2d.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/flatbuffers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/fp16_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/gemmlowp.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/neon2sse.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/opencl_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/opengl_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/ruy.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/vulkan_headers.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/xnnpack.cmake">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/farmhash/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\farmhash\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/fft2d/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\fft2d\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/cmake/modules/gemmlowp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\tools\cmake\modules\gemmlowp\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../../tools/benchmark/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\tools\benchmark\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/../label_image/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\label_image\"/>
+		</Unit>
+		<Unit filename="E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/minimal/Qt/Qt5.14/Tools/QtCreator/share/qtcreator/package-manager/auto-setup.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.14\Tools\QtCreator\share\qtcreator\package-manager\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

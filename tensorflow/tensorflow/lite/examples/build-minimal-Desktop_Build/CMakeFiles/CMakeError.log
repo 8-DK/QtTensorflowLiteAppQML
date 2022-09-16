@@ -1,0 +1,122 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Wshorten64to32 failed with the following output:
+Change Dir: E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe cmTC_9e6d3 && [1/2] Building CXX object CMakeFiles/cmTC_9e6d3.dir/src.cxx.obj
+FAILED: CMakeFiles/cmTC_9e6d3.dir/src.cxx.obj 
+C:\Qt\Qt5.14\Tools\mingw730_64\bin\g++.exe    -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -DCOMPILER_SUPPORT_Wshorten64to32 -Werror   -Wshorten-64-to-32 -std=c++14 -o CMakeFiles/cmTC_9e6d3.dir/src.cxx.obj -c src.cxx
+g++.exe: error: unrecognized command line option '-Wshorten-64-to-32'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Wenumconversion failed with the following output:
+Change Dir: E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe cmTC_995da && [1/2] Building CXX object CMakeFiles/cmTC_995da.dir/src.cxx.obj
+FAILED: CMakeFiles/cmTC_995da.dir/src.cxx.obj 
+C:\Qt\Qt5.14\Tools\mingw730_64\bin\g++.exe    -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -DCOMPILER_SUPPORT_Wenumconversion -Werror   -Wenum-conversion -std=c++14 -o CMakeFiles/cmTC_995da.dir/src.cxx.obj -c src.cxx
+g++.exe: error: unrecognized command line option '-Wenum-conversion'; did you mean '-Wno-conversion'?
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Wcpp11extensions failed with the following output:
+Change Dir: E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe cmTC_2ad50 && [1/2] Building CXX object CMakeFiles/cmTC_2ad50.dir/src.cxx.obj
+FAILED: CMakeFiles/cmTC_2ad50.dir/src.cxx.obj 
+C:\Qt\Qt5.14\Tools\mingw730_64\bin\g++.exe    -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -DCOMPILER_SUPPORT_Wcpp11extensions -Werror   -Wc++11-extensions -std=c++14 -o CMakeFiles/cmTC_2ad50.dir/src.cxx.obj -c src.cxx
+g++.exe: error: unrecognized command line option '-Wc++11-extensions'; did you mean '-fms-extensions'?
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe cmTC_908e4 && [1/2] Building CXX object CMakeFiles/cmTC_908e4.dir/src.cxx.obj
+FAILED: CMakeFiles/cmTC_908e4.dir/src.cxx.obj 
+C:\Qt\Qt5.14\Tools\mingw730_64\bin\g++.exe    -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd981 -Werror   -wd981 -std=c++14 -o CMakeFiles/cmTC_908e4.dir/src.cxx.obj -c src.cxx
+g++.exe: error: unrecognized command line option '-wd981'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe cmTC_5a070 && [1/2] Building CXX object CMakeFiles/cmTC_5a070.dir/src.cxx.obj
+FAILED: CMakeFiles/cmTC_5a070.dir/src.cxx.obj 
+C:\Qt\Qt5.14\Tools\mingw730_64\bin\g++.exe    -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd2304 -Werror   -wd2304 -std=c++14 -o CMakeFiles/cmTC_5a070.dir/src.cxx.obj -c src.cxx
+g++.exe: error: unrecognized command line option '-wd2304'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Determining if the strtof_l exist failed with the following output:
+Change Dir: E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe cmTC_a3ffb && [1/2] Building CXX object CMakeFiles/cmTC_a3ffb.dir/CheckSymbolExists.cxx.obj
+FAILED: CMakeFiles/cmTC_a3ffb.dir/CheckSymbolExists.cxx.obj 
+C:\Qt\Qt5.14\Tools\mingw730_64\bin\g++.exe     -o CMakeFiles/cmTC_a3ffb.dir/CheckSymbolExists.cxx.obj -c CheckSymbolExists.cxx
+CheckSymbolExists.cxx: In function 'int main(int, char**)':
+CheckSymbolExists.cxx:8:19: error: 'strtof_l' was not declared in this scope
+   return ((int*)(&strtof_l))[argc];
+                   ^~~~~~~~
+CheckSymbolExists.cxx:8:19: note: suggested alternative: 'strtoull'
+   return ((int*)(&strtof_l))[argc];
+                   ^~~~~~~~
+                   strtoull
+ninja: build stopped: subcommand failed.
+
+
+File E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtof_l
+  return ((int*)(&strtof_l))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the strtoull_l exist failed with the following output:
+Change Dir: E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/Qt5.14/5.14.1/mingw73_64/bin/ninja.exe cmTC_065c8 && [1/2] Building CXX object CMakeFiles/cmTC_065c8.dir/CheckSymbolExists.cxx.obj
+FAILED: CMakeFiles/cmTC_065c8.dir/CheckSymbolExists.cxx.obj 
+C:\Qt\Qt5.14\Tools\mingw730_64\bin\g++.exe     -o CMakeFiles/cmTC_065c8.dir/CheckSymbolExists.cxx.obj -c CheckSymbolExists.cxx
+CheckSymbolExists.cxx: In function 'int main(int, char**)':
+CheckSymbolExists.cxx:8:19: error: 'strtoull_l' was not declared in this scope
+   return ((int*)(&strtoull_l))[argc];
+                   ^~~~~~~~~~
+CheckSymbolExists.cxx:8:19: note: suggested alternative: 'strtoull'
+   return ((int*)(&strtoull_l))[argc];
+                   ^~~~~~~~~~
+                   strtoull
+ninja: build stopped: subcommand failed.
+
+
+File E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtoull_l
+  return ((int*)(&strtoull_l))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}

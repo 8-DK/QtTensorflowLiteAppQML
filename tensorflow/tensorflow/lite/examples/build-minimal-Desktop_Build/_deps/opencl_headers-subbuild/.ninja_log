@@ -1,0 +1,18 @@
+# ninja log v5
+1	196	6697682522839377	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-mkdir	a4062537772e0e77
+196	2885	6697682549732252	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-download	86f63a3ca2c5a645
+2885	2945	6697682550320413	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-patch	f6870788caa20597
+2890	3020	0	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-update	478c48bdcb0eb8b1
+3021	3078	6697682551657129	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-configure	cd4753697bb64f0c
+3078	3134	6697682552225433	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-build	d33acc06e9300528
+3134	3193	6697682552803757	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-install	2bdcafb0a3dd7bd3
+3193	3251	6697682553392197	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-test	427e96e979dfbf1
+3251	3331	6697682554190332	CMakeFiles/opencl_headers-populate-complete	ad078adda414daf4
+3251	3331	6697682554190332	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-done	ad078adda414daf4
+0	386	0	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-update	478c48bdcb0eb8b1
+386	767	6697694369866189	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-configure	cd4753697bb64f0c
+767	1167	6697694373676103	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-build	d33acc06e9300528
+1167	1535	6697694377845047	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-install	2bdcafb0a3dd7bd3
+1535	1782	6697694380308574	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-test	427e96e979dfbf1
+1782	1877	6697694381270363	CMakeFiles/opencl_headers-populate-complete	ad078adda414daf4
+1782	1877	6697694381270363	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opencl_headers-populate-stamp/opencl_headers-populate-done	ad078adda414daf4

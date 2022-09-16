@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/CMakeFiles/clog-populate"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/CMakeFiles/clog-populate.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/CMakeFiles/clog-populate-complete.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/clog-populate-prefix/src/clog-populate-stamp/clog-populate-install.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/clog-populate-prefix/src/clog-populate-stamp/clog-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/clog-populate-prefix/src/clog-populate-stamp/clog-populate-download.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/clog-populate-prefix/src/clog-populate-stamp/clog-populate-update.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/clog-populate-prefix/src/clog-populate-stamp/clog-populate-patch.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/clog-populate-prefix/src/clog-populate-stamp/clog-populate-configure.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/clog-populate-prefix/src/clog-populate-stamp/clog-populate-build.rule"
+		},
+		{
+			"file" : "E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/_deps/clog-subbuild/clog-populate-prefix/src/clog-populate-stamp/clog-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"clog-populate"
+		],
+		"name" : "clog-populate"
+	}
+}

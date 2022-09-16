@@ -1,0 +1,18 @@
+# ninja log v5
+0	200	6697682969642394	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-mkdir	530303eac18c1c9e
+201	154451	6697684512148211	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-download	f596f45a57ebc807
+154451	154511	6697684512756598	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-patch	138d7e8ed6cbb321
+154456	154591	0	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-update	9bf2c84f894f006e
+154591	154648	6697684514122936	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-configure	5eeaaff1f2639cdc
+154648	154705	6697684514691416	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-build	c736b8eae8093d33
+154705	154761	6697684515259907	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-install	154ce56c14c0cc29
+154762	154820	6697684515838343	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-test	c4657626e54168d0
+154820	154897	6697684516616281	CMakeFiles/opengl_headers-populate-complete	d497ada58cde20c
+154820	154897	6697684516616281	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-done	d497ada58cde20c
+1	562	0	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-update	9bf2c84f894f006e
+562	1010	6697694425933310	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-configure	5eeaaff1f2639cdc
+1010	1405	6697694430006346	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-build	c736b8eae8093d33
+1405	1694	6697694432585281	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-install	154ce56c14c0cc29
+1694	1894	6697694434899095	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-test	c4657626e54168d0
+1894	2416	6697694439657550	CMakeFiles/opengl_headers-populate-complete	d497ada58cde20c
+1894	2416	6697694439657550	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/opengl_headers-populate-stamp/opengl_headers-populate-done	d497ada58cde20c

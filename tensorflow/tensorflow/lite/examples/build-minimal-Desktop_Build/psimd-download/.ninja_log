@@ -1,0 +1,11 @@
+# ninja log v5
+0	197	6697672160458517	psimd-prefix/src/psimd-stamp/psimd-mkdir	b173db2089d3d106
+197	2504	6697672183531216	psimd-prefix/src/psimd-stamp/psimd-download	7f3007c691d06cf7
+2509	2573	6697672184214876	psimd-prefix/src/psimd-stamp/psimd-patch	e11ed48afdaaf84e
+2504	4298	0	psimd-prefix/src/psimd-stamp/psimd-update	21292e2874ec0f13
+4298	4356	6697672202055668	psimd-prefix/src/psimd-stamp/psimd-configure	597b4166ea98170a
+4356	4413	6697672202624141	psimd-prefix/src/psimd-stamp/psimd-build	3fc13fa142751c29
+4413	4470	6697672203182647	psimd-prefix/src/psimd-stamp/psimd-install	717cc8ebf0da78bf
+4470	4527	6697672203761117	psimd-prefix/src/psimd-stamp/psimd-test	72956433ecb38dcf
+4527	4607	6697672204559254	CMakeFiles/psimd-complete	e676b97fb2f33622
+4527	4607	6697672204559254	psimd-prefix/src/psimd-stamp/psimd-done	e676b97fb2f33622

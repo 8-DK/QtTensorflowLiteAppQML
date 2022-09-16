@@ -1,0 +1,11 @@
+# ninja log v5
+0	190	6697672123796531	fxdiv-prefix/src/fxdiv-stamp/fxdiv-mkdir	302c1000009e39f8
+191	1294	6697672134832204	fxdiv-prefix/src/fxdiv-stamp/fxdiv-download	19d12f8299d3f50
+1294	1353	6697672135420084	fxdiv-prefix/src/fxdiv-stamp/fxdiv-patch	9e5c1430d95f8940
+1299	1355	6697672135449992	fxdiv-prefix/src/fxdiv-stamp/fxdiv-update	5dc7ddc3fb649db7
+1355	1413	6697672136018736	fxdiv-prefix/src/fxdiv-stamp/fxdiv-configure	e0d53e0178a8d27e
+1413	1470	6697672136596927	fxdiv-prefix/src/fxdiv-stamp/fxdiv-build	366b2bf36e296b0c
+1470	1526	6697672137155738	fxdiv-prefix/src/fxdiv-stamp/fxdiv-install	6194f3055c7c5da4
+1526	1583	6697672137724188	fxdiv-prefix/src/fxdiv-stamp/fxdiv-test	696f5bc41c6d820b
+1584	1666	6697672138551698	CMakeFiles/fxdiv-complete	9ed8f861fafe2d2d
+1584	1666	6697672138551698	fxdiv-prefix/src/fxdiv-stamp/fxdiv-done	9ed8f861fafe2d2d

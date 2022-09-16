@@ -1,0 +1,14 @@
+# Target labels
+ fxdiv
+# Source files and their labels
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/CMakeFiles/fxdiv
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/CMakeFiles/fxdiv.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/CMakeFiles/fxdiv-complete.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-install.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-mkdir.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-download.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-update.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-patch.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-configure.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-build.rule
+E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-test.rule

@@ -1,0 +1,18 @@
+# ninja log v5
+0	206	6697684521329821	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-mkdir	8cfa12ca686c4b32
+206	4657	6697684565839338	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-download	18303a98b22a13b2
+4657	4718	6697684566447710	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-patch	ce29d2106a39c452
+4662	4793	0	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-update	ee91b915671dd6ee
+4793	4850	6697684567774165	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-configure	3d0733bda5cb933d
+4850	4907	6697684568342638	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-build	9410e37b9cfb125d
+4907	4965	6697684568921091	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-install	29e1ce47f344c2a9
+4965	5020	6697684569469626	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-test	63eda6001d589c67
+5020	5099	6697684570259934	CMakeFiles/egl_headers-populate-complete	a121a9d422f6528f
+5020	5099	6697684570259934	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-done	a121a9d422f6528f
+1	324	0	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-update	ee91b915671dd6ee
+324	382	6697694453568971	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-configure	3d0733bda5cb933d
+382	597	6697694455035051	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-build	9410e37b9cfb125d
+597	1036	6697694459679030	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-install	29e1ce47f344c2a9
+1036	1431	6697694463643231	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-test	63eda6001d589c67
+1432	1970	6697694468980735	CMakeFiles/egl_headers-populate-complete	a121a9d422f6528f
+1432	1970	6697694468980735	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/egl_headers-populate-stamp/egl_headers-populate-done	a121a9d422f6528f

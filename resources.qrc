@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppSettingsPage.qml</file>
+        <file>Main.qml</file>
+        <file>VideoPage.qml</file>
+        <file>PopupMessage.qml</file>
+        <file>assets/infocircle.png</file>
+        <file>assets/camera.png</file>
+        <file>assets/imageClassification.tflite</file>
+        <file>assets/imageClassificationLabels.txt</file>
+        <file>assets/object_detection.tflite</file>
+        <file>assets/object_detection_labels.txt</file>
+        <file>assets/setting.png</file>
+        <file>assets/backbtn.png</file>
+        <file>assets/fileIcon.png</file>
+    </qresource>
+</RCC>

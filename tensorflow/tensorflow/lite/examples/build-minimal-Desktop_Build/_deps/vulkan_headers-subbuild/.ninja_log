@@ -1,0 +1,18 @@
+# ninja log v5
+0	196	6697682558750981	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-mkdir	712eb31770631683
+197	40381	6697682960596555	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-download	87f833b575899bd1
+40381	40440	6697682961195234	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-patch	c90c0a5dad561f31
+40386	40520	0	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-update	e25470577b2c50fd
+40520	40577	6697682962561618	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-configure	9c7c5d0f52e3cfb
+40578	40634	6697682963129807	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-build	302a54fdfb056977
+40634	40690	6697682963698288	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-install	c63cc0a982d3407b
+40690	40747	6697682964266768	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-test	890859758564d67d
+40747	40826	6697682965054659	CMakeFiles/vulkan_headers-populate-complete	289bc0ac54c4155c
+40747	40826	6697682965054659	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-done	289bc0ac54c4155c
+0	670	0	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-update	e25470577b2c50fd
+670	948	6697694397089193	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-configure	9c7c5d0f52e3cfb
+948	1143	6697694399343169	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-build	302a54fdfb056977
+1143	1216	6697694400071227	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-install	c63cc0a982d3407b
+1216	1365	6697694401038629	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-test	890859758564d67d
+1365	1957	6697694407206974	CMakeFiles/vulkan_headers-populate-complete	289bc0ac54c4155c
+1365	1957	6697694407206974	E:/pdrl/GCSObjectDetection/tensorflow/tensorflow/lite/examples/build-minimal-Desktop_Build/src/vulkan_headers-populate-stamp/vulkan_headers-populate-done	289bc0ac54c4155c
